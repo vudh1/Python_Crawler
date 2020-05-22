@@ -12,3 +12,6 @@ class Response(object):
                 None)
         except TypeError:
             self.raw_response = None
+
+    def get_status(self):
+        return self.status
