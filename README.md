@@ -1,6 +1,6 @@
 ABOUT
 -------------------------
-This is the base implementation of a full crawler that uses a spacetime
+This is the implementation of a full crawler that uses a spacetime
 cache server to receive requests.
 
 CONFIGURATION
